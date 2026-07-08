@@ -29,7 +29,7 @@ git clone
 git pull
 ```
 
-![图片说明](./assets/git-tutorial/file-20260707170138717.png)
+![图片说明](/assets/git-tutorial/file-20260707170138717.png)
 
 ## git bundle
 C语言实训课上学生提到的，这个命令平常比较少见，是用于离线打包本地仓库的。通常是离线打包之后拷贝给别人让别人可以同步你的文件状态，但是无法共享，所以并不方便。
