@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-remote_theme: jeffreytse/jekyll-theme-yat
+remote_theme: jeffreytse/jekyll-theme-yat@v1.10.0
 title: LyonWu's homepage
 description: Record
