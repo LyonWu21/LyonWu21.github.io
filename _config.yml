@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 remote_theme: jeffreytse/jekyll-theme-yat@v1.10.0
-title: LyonWu's homepage
+title: Yuto Kirishima's homepage
 description: Record
+defaults:
+  home:
+    heading: "Yuto's Blog"
+    subheading: "记录工作、生活与兴趣"
